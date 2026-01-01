@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a365d" />
+      <stop offset="100%" stop-color="#4a5568" />
+    </linearGradient>
+  </defs>
+  <rect width="720" height="960" fill="url(#bg)" />
+  <rect x="40" y="40" width="640" height="880" rx="32" fill="#f7f8fb" opacity="0.9" />
+  <g fill="#1a365d" font-family="'Noto Sans KR', sans-serif" text-anchor="middle">
+    <text x="360" y="420" font-size="40" font-weight="700">김장오 행정사</text>
+    <text x="360" y="470" font-size="26">프로필 사진 위치</text>
+    <text x="360" y="520" font-size="20" opacity="0.7">실제 사진으로 교체해 주세요</text>
+  </g>
+</svg>

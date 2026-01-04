@@ -17,7 +17,7 @@ export default defineConfig({
     },
   },
   // GitHub Pages deployment configuration
-  base: '/',
+  base: '/AdministrativeAgent_JangOh/',
   build: {
     outDir: 'dist',
     sourcemap: true,

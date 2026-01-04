@@ -1,5 +1,5 @@
 import { Award, CheckCircle, Briefcase } from "lucide-react";
-import profileImage from "src/assets/kjo.jpg";
+import profileImage from "@/assets/kjo.jpg";
 
 export function ProfileSection() {
   const careers = [
